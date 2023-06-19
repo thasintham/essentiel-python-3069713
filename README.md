@@ -5,22 +5,12 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 ![Nom final de la formation][lil-thumbnail-url] 
 
 
-
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.  
 Chaque épisode de la série Level Up offre au moins 12 occasions de s'exercer à la programmation à différents niveaux de difficulté, afin que vous puissiez vous mettre au défi et renforcer ce que vous avez appris. Consultez la vidéo "Utilisation des espaces de code GitHub avec ce cours" pour savoir comment mettre en place un espace de code.  
 
-DESCRIPTION DE LA FORMATION
-
-## Instructions
-
-Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
-
-## Branches
-
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
+Cette formation Python permettra à toutes les personnes souhaitant débuter avec ce langage, de démarrer son apprentissage au travers d'une formation complète sur les essentiels de Python.
+Chaque chapitre comportera un défi afin de s'exercer sur les notions théoriques vues dans le chapitre.
+Python est le langage de programmation le plus utilisé dans l'Intelligence Artificielle mais aussi le développement web, cette formation vous permettra d'acquérir les bases du langage.
 
 ## Installation
 
@@ -32,7 +22,7 @@ La branche master correspond au code à la fin de la formation.
 
 ### Formateur
 
-**Nom du formateur** 
+**Alison PATOU** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
