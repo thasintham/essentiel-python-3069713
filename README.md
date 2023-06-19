@@ -24,10 +24,10 @@ Python est le langage de programmation le plus utilisé dans l'Intelligence Arti
 
 **Alison PATOU** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alison-patou?u=43271628)].
+ Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alison-patou?u=43271628).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
+[Python, visualisation de données](https://www.linkedin.com/learning/python-la-visualisation-des-donnees/bienvenue-dans-python-la-visualisation-des-donnees?u=43271628)
 [lil-thumbnail-url]: https:
 [lil-URL-trainer]: https://
 
