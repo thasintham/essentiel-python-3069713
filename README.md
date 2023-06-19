@@ -28,7 +28,7 @@ Python est le langage de programmation le plus utilisé dans l'Intelligence Arti
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [Python, visualisation de données](https://www.linkedin.com/learning/python-la-visualisation-des-donnees/bienvenue-dans-python-la-visualisation-des-donnees?u=43271628)
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[Les fondements du Big Data](https://www.linkedin.com/learning/les-fondements-du-big-data-21797987/bienvenue-dans-les-fondements-du-big-data?u=43271628)
+[Modéliser les données avec DAX](https://www.linkedin.com/learning/power-bi-modeliser-des-donnees-avec-dax/bienvenue-dans-power-bi-modeliser-des-donnees-avec-dax?u=43271628)
 
 [1]: # (End of FR-Instruction ###############################################################################################)
