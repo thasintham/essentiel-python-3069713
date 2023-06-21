@@ -7,17 +7,12 @@ Ce dossier Repository est lié au cours `L'essentiel de Python`. Le cours entier
 
 Ce cours vous propose d'accéder à GitHub Codespaces, un environnement de développement instantané en ligne qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.  
 
-Cette formation Python permettra à toutes les personnes souhaitant débuter avec ce langage, de démarrer son apprentissage au travers d'une formation complète sur les essentiels de Python.
-Chaque chapitre comportera un défi afin de s'exercer sur les notions théoriques vues dans le chapitre.
+Cette formation Python permettra à toutes les personnes souhaitant débuter avec ce langage, de démarrer son apprentissage au travers d'une formation complète sur les essentiels de Python. Chaque chapitre comportera un défi afin de s'exercer sur les notions théoriques vues dans le chapitre.
 Python est le langage de programmation le plus utilisé dans l'Intelligence Artificielle mais aussi le développement web, cette formation vous permettra d'acquérir les bases du langage.
 
-## Installation
+## Utilisation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
-
+Ce dossier Repository ne comporte pas de fichiers d'exercice, mais vous permettra d'accéder à un IDE avec Codespaces prélablement configuré pour la programmation avec Python. 
 
 ### Formateur
 
