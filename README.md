@@ -21,8 +21,8 @@ Ce dossier repository ne comporte pas de fichier d'exercice, mais vous permettra
  Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/alison-patou?u=43271628).  
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[Python, visualisation de données](https://www.linkedin.com/learning/python-la-visualisation-des-donnees/bienvenue-dans-python-la-visualisation-des-donnees?u=43271628)  
-[Les fondements du Big Data](https://www.linkedin.com/learning/les-fondements-du-big-data-21797987/bienvenue-dans-les-fondements-du-big-data?u=43271628)  
-[Modéliser les données avec DAX](https://www.linkedin.com/learning/power-bi-modeliser-des-donnees-avec-dax/bienvenue-dans-power-bi-modeliser-des-donnees-avec-dax?u=43271628)
+[Python, visualisation de données](https://www.linkedin.com/learning/python-la-visualisation-des-donnees/bienvenue-dans-python-la-visualisation-des-donnees)  
+[Les fondements du Big Data](https://www.linkedin.com/learning/les-fondements-du-big-data-21797987/bienvenue-dans-les-fondements-du-big-data)  
+[Modéliser les données avec DAX](https://www.linkedin.com/learning/power-bi-modeliser-des-donnees-avec-dax/bienvenue-dans-power-bi-modeliser-des-donnees-avec-dax)
 
 [1]: # (End of FR-Instruction ###############################################################################################)
