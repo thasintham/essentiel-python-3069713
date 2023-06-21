@@ -12,7 +12,7 @@ Python est le langage de programmation le plus utilisé dans l'Intelligence Arti
 
 ## Utilisation
 
-Ce dossier repository ne comporte pas de fichiers d'exercice, mais vous permettra d'accéder à un IDE avec Codespaces prélablement configuré pour la programmation avec Python. 
+Ce dossier repository ne comporte pas de fichier d'exercice, mais vous permettra d'accéder à un IDE avec Codespaces prélablement configuré pour la programmation avec Python. 
 
 ### Formateur
 
