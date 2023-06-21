@@ -5,8 +5,7 @@ Ce dossier Repository est lié au cours `L'essentiel de Python`. Le cours entier
 ![Nom final de la formation][lil-thumbnail-url] 
 
 
-Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.  
-Chaque épisode de la série Level Up offre au moins 12 occasions de s'exercer à la programmation à différents niveaux de difficulté, afin que vous puissiez vous mettre au défi et renforcer ce que vous avez appris. Consultez la vidéo "Utilisation des espaces de code GitHub avec ce cours" pour savoir comment mettre en place un espace de code.  
+Ce cours vous propose d'accéder à GitHub Codespaces, un environnement de développement instantané en ligne qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail.  
 
 Cette formation Python permettra à toutes les personnes souhaitant débuter avec ce langage, de démarrer son apprentissage au travers d'une formation complète sur les essentiels de Python.
 Chaque chapitre comportera un défi afin de s'exercer sur les notions théoriques vues dans le chapitre.
