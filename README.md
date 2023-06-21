@@ -1,6 +1,6 @@
 # L'essentiel de Python
 
-Ce dossier Repository est lié au cours `L'essentiel de Python`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier repository est lié au cours `L'essentiel de Python`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
@@ -12,7 +12,7 @@ Python est le langage de programmation le plus utilisé dans l'Intelligence Arti
 
 ## Utilisation
 
-Ce dossier Repository ne comporte pas de fichiers d'exercice, mais vous permettra d'accéder à un IDE avec Codespaces prélablement configuré pour la programmation avec Python. 
+Ce dossier repository ne comporte pas de fichiers d'exercice, mais vous permettra d'accéder à un IDE avec Codespaces prélablement configuré pour la programmation avec Python. 
 
 ### Formateur
 
