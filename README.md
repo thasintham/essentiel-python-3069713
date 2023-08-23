@@ -26,4 +26,4 @@ Ce dossier repository ne comporte pas de fichier d'exercice, mais vous permettra
 [Modéliser les données avec DAX](https://www.linkedin.com/learning/power-bi-modeliser-des-donnees-avec-dax/bienvenue-dans-power-bi-modeliser-des-donnees-avec-dax)
 
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-python
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEKm2NT8wX6og/learning-public-crop_675_1200/0/1692766287463?e=2147483647&v=beta&t=zEdGc91gJxMGvjjDi-O3Z1C3vyxEES4lzJKoZtkUS3E
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEbvITnYTKX7A/learning-public-crop_675_1200/0/1692782632292?e=2147483647&v=beta&t=x78-rQO6Kn3pOZehfMSh--kMLhIjed1uytvIZF-ryFI
